@@ -13,3 +13,6 @@ As SPAs oferecem uma experiência de usuário mais fluida e responsiva, mas tamb
 
 ## Formulários dinâmicos
 Formulários dinâmicos referem-se a formulários em aplicações web que podem ser construídos ou modificados dinamicamente em tempo de execução, geralmente em resposta a configurações ou dados variáveis. Esses formulários são flexíveis e adaptáveis, permitindo que os desenvolvedores criem interfaces de usuário interativas e personalizáveis.
+
+## Página em execução 
+<img width="941" alt="image" src="https://github.com/sophiatosarr/formul-rio-din-mico/assets/99216420/5341bf26-2114-412c-98eb-8f7c9a1abc7e">
