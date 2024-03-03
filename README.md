@@ -14,5 +14,79 @@ As SPAs oferecem uma experiência de usuário mais fluida e responsiva, mas tamb
 ## Formulários dinâmicos
 Formulários dinâmicos referem-se a formulários em aplicações web que podem ser construídos ou modificados dinamicamente em tempo de execução, geralmente em resposta a configurações ou dados variáveis. Esses formulários são flexíveis e adaptáveis, permitindo que os desenvolvedores criem interfaces de usuário interativas e personalizáveis.
 
+## Estrutura de Pastas
+### e2e/ (End-to-End Testing):
+
+Esta pasta contém os arquivos relacionados a testes end-to-end (e2e), utilizando ferramentas como Protractor.
+
+### node_modules/:
+
+Contém as dependências do projeto. Essa pasta é gerada automaticamente ao instalar pacotes npm.
+
+### src/ (Source Code):
+
+A maior parte do código-fonte do projeto está nesta pasta.
+
+#### app/:
+
+Contém os componentes, serviços, módulos e outros artefatos específicos do aplicativo.
+
+##### components/:
+
+Componentes reutilizáveis e específicos do aplicativo.
+
+##### services/:
+
+Serviços Angular utilizados para centralizar lógicas de negócios compartilhadas.
+
+##### modules/:
+
+Módulos Angular, que agrupam componentes relacionados.
+
+##### views/:
+
+Componentes específicos para as diferentes visualizações do aplicativo.
+
+#### assets/:
+
+Arquivos estáticos, como imagens ou arquivos de estilo, que são usados no aplicativo.
+
+#### environments/:
+
+Configurações específicas do ambiente, como URLs de API, para ambientes de desenvolvimento e produção.
+
+#### styles/:
+
+Arquivos de estilo globais, como arquivos CSS ou arquivos de pré-processadores como SCSS ou LESS.
+
+#### index.html:
+
+O ponto de entrada HTML do aplicativo.
+
+### angular.json:
+
+Configuração do Angular CLI para o projeto, incluindo configurações de compilação, ambiente, etc.
+
+### package.json e package-lock.json:
+
+Arquivos que descrevem as dependências do projeto e suas versões.
+
+### tsconfig.json:
+
+Configuração do TypeScript para o projeto.
+
+### tslint.json:
+
+Configuração do TSLint para a verificação de código.
+
+### karma.conf.js:
+
+Configuração do Karma, utilizado para executar testes unitários.
+
+### tsconfig.spec.json:
+
+Configuração TypeScript específica para testes unitários.
+
+
 ## Página em execução 
 <img width="941" alt="image" src="https://github.com/sophiatosarr/formul-rio-din-mico/assets/99216420/5341bf26-2114-412c-98eb-8f7c9a1abc7e">
